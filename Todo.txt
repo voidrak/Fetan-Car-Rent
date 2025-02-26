@@ -1,0 +1,63 @@
+ Core Features:  (Customer, Rental Officer, Manager)
+
+
+ Pages:
+ - User: 
+      HomePage -> some  car list
+      CarPage -> All Cars (Filter)
+      CarDetails -> car details
+      Feedback
+      Payment -> 
+ - Officers
+      Available Cars Page
+      Add  / Update  Cars Page
+      Add / Update  Drivers Page
+
+
+TODO
+  - All Car List With Filter
+  - Car Reservation With Date 
+
+
+      
+
+
+User Management:
+
+User Registration: Allow customers to create accounts with personal details.
+User Login: Secure login for customers, rental officers, managers, and system admins.
+Profile Management: Enable users to update their information.
+
+Car Reservation and Rental:
+
+Online Reservation: Allow users to browse and reserve cars based on availability.
+Advanced Search: Search cars by brand, fuel type, price, or other filters.
+Rental Confirmation: Provide rental agreements and confirmation receipts.
+Booking Management: Enable customers to manage and cancel bookings.
+
+Car Inventory Management:
+
+Car Registration: Rental officers can add new cars to the inventory.
+Car Status Updates: Update car availability, maintenance status, and rental history.
+
+Driver Management:
+
+Driver Assignment: Rental officers can assign drivers for bookings requiring chauffeur service.
+Driver Schedule Management: View assigned cars and destination details.
+
+
+Feedback and Complaints:
+
+Feedback Submission: Customers can submit feedback and complaints.
+Manager Review: Managers can review and respond to complaints.
+
+Reports and Analytics:
+
+Report Generation: Create reports for rentals, reservations, and payments for Manager.
+Dashboard Insights: Provide a dashboard with summaries of activities and statistics.
+
+ 
+
+ 
+
+ 
